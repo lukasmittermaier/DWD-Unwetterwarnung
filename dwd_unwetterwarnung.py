@@ -38,13 +38,13 @@ try:
 
     akt = soup.strong.text
       
-    n = soup.find(id='Mitgliedsgemeinde in Verwaltungsgemeinschaft Kienberg')
+    n = soup.find(id='ID der Gemeinde')
     if str(n) == 'None':
         file = open('/home/pi/warntext.txt', 'w+')
         file.write(akt+'\n')
         file.write('keine Warnungen')
         file.close()
-    if str(n) == '<h2 id="Mitgliedsgemeinde in Verwaltungsgemeinschaft Kienberg">Mitgliedsgemeinde in Verwaltungsgemeinschaft Kienberg</h2>':
+    if str(n) == '<h2 id="ID der Gemeinde">ID der Gemeinde</h2>':
         m = n.nextSibling
         file = open('/home/pi/warntext.txt', 'w+')
         file.write(akt+'\n')
