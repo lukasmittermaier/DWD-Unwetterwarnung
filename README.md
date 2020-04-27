@@ -4,5 +4,4 @@ Python Code um die aktuellen Unwetterwarnungen des Deutschen Wetterdienstes auf 
 
 
 
-bitte beachten:
 Die Icons dürfen ausschließlich in Verbindung mit der Darstellung von amtlichen Warnungen, Wetterdaten und Vorhersagen vom DWD genutzt und veröffentlicht werden. Das Copyright liegt aber weiterhin beim Deutschen Wetterdienst.
