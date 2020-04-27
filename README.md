@@ -1,5 +1,5 @@
 # DWD-Unwetterwarnung
-Python Code um die aktuellen Unwetterwarnungen des Deutschen Wetterdienstes auf Gemeindebasis in graphischer Form mit den offiziellen Warnicons auf einem LCD Display anzuzeigen
+Python Script um die aktuellen Unwetterwarnungen des Deutschen Wetterdienstes auf Gemeindebasis in graphischer Form mit den offiziellen Warnicons auf einem LCD Display anzuzeigen
 
 
 
